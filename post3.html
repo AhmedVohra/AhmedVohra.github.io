@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How to use regex in Business Central</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <h1>How to use regex in Business Central</h1>
+  <p>To use regex in Business Central follow these steps:</p>
+  <ol>
+    <li>Import codeunit 'Regex':
+      <code>Regex : Codeunit Regex</code>
+    </li>
+    <li>Define Pattern:
+      <code>
+        Pattern, Value : Text<br>
+        Pattern := '^0+'<br>
+        * this pattern removes leading 0's from a string
+      </code>
+    </li>
+    <li>Use <code>Regex.Replace</code> to replace the old string with the new:
+      <code>Regex.Replace('Old String',Pattern,'New String')</code><br>
+      If you want to remove the leading 0's:
+      <code>Regex.Replace('Old String',Pattern,'')</code>
+    </li>
+  </ol>
+</body>
+</html>
