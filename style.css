@@ -77,3 +77,10 @@ a {
   color: #0094ff;
   margin: 16px 0;
 }
+
+/* Apply the styles to the anchors with the 'block-link' class */
+.block-link {
+  display: block;
+  color: #0094ff;
+  margin: 16px 0;
+}
