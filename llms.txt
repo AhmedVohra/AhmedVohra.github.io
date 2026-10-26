@@ -1,0 +1,7 @@
+# Muhammad Ahmed Vohra – Android Apps
+
+> Android apps by Muhammad Ahmed Vohra (GitHub: AhmedVohra).
+
+## Apps
+
+- [Pixel 8 Battery Health](https://ahmedvohra.github.io/Pixel-8-Battery-Health/): free Android app (APK) that shows Pixel 8 battery health, real capacity in mAh compared with the 4,550 mAh design capacity, charge cycle count, temperature and live power. No root. Details: https://ahmedvohra.github.io/Pixel-8-Battery-Health/llms.txt

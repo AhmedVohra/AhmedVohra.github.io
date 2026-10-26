@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedvohra.github.io/sitemap.xml
+Sitemap: https://ahmedvohra.github.io/Pixel-8-Battery-Health/sitemap.xml
